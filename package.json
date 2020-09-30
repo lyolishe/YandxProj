@@ -1,0 +1,23 @@
+{
+  "name": "yandxproj",
+  "version": "1.0.0",
+  "description": "A new repository for my learning in Yxndex.Practicum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyolishe/YandxProj.git"
+  },
+  "author": "ButtSurfer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyolishe/YandxProj/issues"
+  },
+  "homepage": "https://github.com/lyolishe/YandxProj#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
